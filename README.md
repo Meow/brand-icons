@@ -24,7 +24,7 @@ These icons are primarily designed for use as website assets.
 
 I am doing this completely for free as a hobby project, for the express purpose of having visual assets for my websites when I link to other resources. I typically use Font Awesome icons, however the websites provided here lacked representation in that icon pack, which prompted me to create these assets.
 
-### I want an icon for <website name here>!
+### I want an icon for [website name here]!
 
 Feel free to suggest new icons for me to make via issues section of this repository.
 
