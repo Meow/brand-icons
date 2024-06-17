@@ -7,11 +7,11 @@ These icons are primarily designed for use as website assets.
 ### Logos included:
 
 - Furaffinity (furaffinity.net) - furaffinity.svg / furaffinity.png
+- InkBunny (inkbunny.net) - inkbunny.svg / inkbunny.png
 
 ### Logos planned:
 
 - Furbooru (furbooru.org)
-- InkBunny (inkbunny.net)
 - E621 / E926 (e621.net / e926.net)
 - Weasyl (weasyl.com)
 - SoFurry (sofurry.com)
