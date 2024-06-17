@@ -1,4 +1,5 @@
-# brand-icons
+# Fandom Site Brand Icons
+
 Just some SVG files of brand logos which weren't in Font Awesome icon set already. Mostly furry projects.
 
 All the icon vectors are made by the author of this repository. The icons are traced over the official logos of respective websites. These logos belong to their respective websites.
@@ -6,18 +7,18 @@ These icons are primarily designed for use as website assets.
 
 ### Logos included:
 
-- Furaffinity (furaffinity.net) - furaffinity.svg / furaffinity.png
-- InkBunny (inkbunny.net) - inkbunny.svg / inkbunny.png
+- Fur Affinity (furaffinity.net) - furaffinity.svg / furaffinity.png
+- Inkbunny (inkbunny.net) - inkbunny.svg / inkbunny.png
 
 ### Logos planned:
 
 - Furbooru (furbooru.org)
-- E621 / E926 (e621.net / e926.net)
+- e621 / e926 (e621.net / e926.net)
 - Weasyl (weasyl.com)
 - SoFurry (sofurry.com)
 - YCH.art (ych.art)
 - YCH Commishes / Commishes (ych.commishes.com / commishes.com)
-- ArtFight (artfight.net)
+- Art Fight (artfight.net)
 - Newgrounds (newgrounds.com)
 
 ### Why are you doing this?
